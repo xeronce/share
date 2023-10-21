@@ -1,1 +1,45 @@
-
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Agora",
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+      "barcode": "8901030942709",
+      "price": 120,
+      "photo": "https://raw.githubusercontent.com/xeronce/share/master/images/mart_icn_256.png"
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1,
+      "barcode": "123456",
+      "price": 150,
+      "photo": "https://raw.githubusercontent.com/xeronce/share/master/images/mart_icn_256.png"
+    },
+    {
+      "id": 3,
+      "body": "some comment",
+      "postId": 1,
+      "barcode": "7891011",
+      "price": 650,
+      "photo": "https://raw.githubusercontent.com/xeronce/share/master/images/mart_icn_256.png"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
