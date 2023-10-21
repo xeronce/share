@@ -17,7 +17,7 @@
     {
       "id": 1,
       "body": "some comment",
-      "postId": 1
+      "postId": 1,
       "barcode": "8901030942709",
       "price": 120,
       "photo": "https://raw.githubusercontent.com/xeronce/share/master/images/mart_icn_256.png"
